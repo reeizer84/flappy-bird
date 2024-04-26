@@ -7,4 +7,4 @@ Simply compile the main file in any Java IDE.
 1 - easy mode  
 2 - hard mode  
 Space - starting a game  
-R - restarting after lose
+R - restarting after loss
